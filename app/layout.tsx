@@ -14,21 +14,21 @@ const JetBrainsMono = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://your-portfolio.example.com"),
+  metadataBase: new URL("https://java-dev-porfolio.vercel.app"),
   title: {
-  default: "Abrar Ali — Fresher Software Developer | Java Developer",
+  default: "Abrar Ali — Software Developer | Java Developer",
   template: "%s | Abrar Ali",
   },
   description:
-  "Portfolio of Abrar Ali — Fresher Software Developer / Java Developer. I build REST APIs, backend systems, and solve coding challenges.",
+  "Portfolio of Abrar Ali — Software Developer / Java Developer. I build REST APIs, backend systems, and solve coding challenges.",
   generator: "v0.app",
   keywords: ["Java", "Spring Boot", "REST APIs", "Backend Developer", "Fresher", "Software Developer"],
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://your-portfolio.example.com",
+    url: "https://java-dev-porfolio.vercel.app",
   siteName: "Abrar Ali — Java Developer",
-  title: "Abrar Ali — Fresher Software Developer | Java Developer",
+  title: "Abrar Ali — Software Developer | Java Developer",
     description: "I build REST APIs, backend systems, and solve coding challenges.",
     images: [
       {
