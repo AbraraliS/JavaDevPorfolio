@@ -18,7 +18,7 @@ export function HeroSection() {
           loading="lazy"
         />
         <h1 className="text-pretty text-3xl font-semibold leading-tight md:text-5xl">
-          Hi, I’m <span className="text-emerald-400">Abrar Ali</span> — Fresher Software Developer | Java Developer
+          Hi, I’m <span className="text-emerald-400">Abrar Ali</span> — Software Developer | Java Developer
         </h1>
         <Typing
           className="text-balance text-zinc-500 md:text-lg"
