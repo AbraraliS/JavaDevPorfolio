@@ -29,7 +29,7 @@ export const projects = [
     stack: "Java · React.js · Node.js · Supabase",
     description: "A full-stack web application that generates intelligent survey questions using AI and provides comprehensive analytics on responses.",
     github: "https://github.com/AbraraliS/Automated_Survey_App",
-    live: "",
+    live: "https://survey-sense-git-main-abraralis-projects.vercel.app/",
     image: "",
   },
   {
