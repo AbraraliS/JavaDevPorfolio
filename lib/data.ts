@@ -4,7 +4,7 @@ export const site = {
   linkedin: "https://www.linkedin.com/in/abraralis",
   email: "abrarali.sunasara28@gmail.com",
   leetcode: "https://leetcode.com/AbraraliS",
-  formEndpoint: "https://formspree.io/f/xvgbqvqz", // replace with your Formspree ID
+  formEndpoint: "https://formspree.io/f/xvgbqvqz",
 }
 
 export const projects = [
