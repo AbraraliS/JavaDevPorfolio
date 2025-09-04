@@ -32,6 +32,14 @@ export const projects = [
     live: "https://survey-sense-git-main-abraralis-projects.vercel.app/",
   image: "/survey-sense-git-main-abraralis-projects.vercel.app_.png",
   },
+   {
+    name: "Portfolio Website",
+    stack: "Next.js · TypeScript · Tailwind CSS",
+    description: "A personal portfolio website built with Next.js, showcasing my projects and skills.",
+    github: "https://github.com/AbraraliS/JavaDevPortfolio",
+    live: "https://java-dev-portfolio.vercel.app/",
+  image: "/java-dev-portfolio.vercel.app_.png",
+  },
   {
     name: "Online Chat App",
     stack: "Java · Android · Firebase",
@@ -40,14 +48,7 @@ export const projects = [
     live: "",
     image: "",
   },
-  {
-    name: "Portfolio Website",
-    stack: "Next.js · TypeScript · Tailwind CSS",
-    description: "A personal portfolio website built with Next.js, showcasing my projects and skills.",
-    github: "https://github.com/AbraraliS/JavaDevPortfolio",
-    live: "https://java-dev-portfolio.vercel.app/",
-  image: "/java-dev-portfolio.vercel.app_.png",
-  },
+ 
 
 ]
 
