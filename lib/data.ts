@@ -30,7 +30,7 @@ export const projects = [
     description: "A full-stack web application that generates intelligent survey questions using AI and provides comprehensive analytics on responses.",
     github: "https://github.com/AbraraliS/Automated_Survey_App",
     live: "https://survey-sense-git-main-abraralis-projects.vercel.app/",
-    image: "",
+  image: "/survey-sense-git-main-abraralis-projects.vercel.app_.png",
   },
   {
     name: "Online Chat App",
@@ -39,6 +39,14 @@ export const projects = [
     github: "https://github.com/AbraraliS/AndroidProject/tree/main/AZMessenger",
     live: "",
     image: "",
+  },
+  {
+    name: "Portfolio Website",
+    stack: "Next.js · TypeScript · Tailwind CSS",
+    description: "A personal portfolio website built with Next.js, showcasing my projects and skills.",
+    github: "https://github.com/AbraraliS/JavaDevPortfolio",
+    live: "https://java-dev-portfolio.vercel.app/",
+  image: "/java-dev-portfolio.vercel.app_.png",
   },
 
 ]
