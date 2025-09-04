@@ -38,7 +38,7 @@ export const projects = [
     description: "A personal portfolio website built with Next.js, showcasing my projects and skills.",
     github: "https://github.com/AbraraliS/JavaDevPortfolio",
     live: "https://java-dev-portfolio.vercel.app/",
-  image: "/java-dev-portfolio.vercel.app_.png",
+  image: "/java-dev-porfolio.vercel.app_.png",
   },
   {
     name: "Online Chat App",
